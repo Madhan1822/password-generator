@@ -59,12 +59,6 @@ Password_Generator
 
 ---
 
-## 📸 Screenshot
-
-![Password Generator](screenshots/app.png)
-
----
-
 ## ⚙️ Installation
 
 Clone the repository
@@ -108,7 +102,7 @@ Start frontend
 
 ```
 cd frontend
-npm start
+npm run dev
 ```
 
 ---
