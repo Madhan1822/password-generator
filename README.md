@@ -95,7 +95,7 @@ Start backend
 
 ```
 cd backend
-npm start
+node server.js
 ```
 
 Start frontend
